@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding:0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+div{
+    height: 40px;
+    background-color: black;
+    margin-top:20px ;
+    padding-top: 10px;
+
+}
+
+.obj{
+    text-decoration: none;
+    color: white;
+    margin-right: 90px;
+}
+
+#wall{
+    color:rgb(248, 83, 18);
+    margin-right: 100px;
+    text-decoration: none;
+}
+
+button{
+    background-color:rgb(248, 83, 18);
+}
+
+#blow{
+    margin-right: 0px;
+}
